@@ -43,7 +43,7 @@ This project focuses on analyzing the **AI job market** by exploring a dataset o
 - **Parsing and exploding** the `required_skills` field to create separate rows for each skill.
 - **Extracting date parts** (year, month, day) from `posting_date` and `application_deadline`.
 - **Calculating new features** like `days_to_deadline`.
-- `required_skills` coiumn were **exploded** to create one skill per row for better filtering options.
+- `required_skills` column were **exploded** to create one skill per row for better filtering options.
 
 ### **Data Processing Steps**
 
